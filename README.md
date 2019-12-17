@@ -13,3 +13,7 @@
 - Cloud scaling via Amazon AWS and Microsoft Azure
 - Access to the Micro Focus community
 - No contract or credit card required
+
+```
+LoadRunner Professional: The premium, market leading performance testing solution for project teams.
+```
