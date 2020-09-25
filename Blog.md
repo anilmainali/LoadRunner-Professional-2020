@@ -86,6 +86,8 @@ Now the files are extracted.
 22.	To open the web tour application you need to navigate to webtours folder and click/invoke windows batch file by double clicking it.
 
 23.	Open the wentour folder and double click on windows batch file
+
+![DWT-MISS](https://user-images.githubusercontent.com/10678180/94239448-7013f000-fed7-11ea-876d-d625615e67fb.PNG)
  
 Server starts.
 
