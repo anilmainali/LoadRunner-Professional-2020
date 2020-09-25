@@ -80,9 +80,10 @@ Now the files are extracted.
  ![DWT-18](https://user-images.githubusercontent.com/10678180/94236777-5d97b780-fed3-11ea-8825-e1be65127497.PNG)
 
 21.	Web tour is installed successfully now.
-22.	To open the web tour application you need to navigate to webtours folder and click/invoke windows batch file by double clicking it.
 
 ![DWT-19](https://user-images.githubusercontent.com/10678180/94236778-5e304e00-fed3-11ea-9790-b5b1ad99dd5c.PNG)
+
+22.	To open the web tour application you need to navigate to webtours folder and click/invoke windows batch file by double clicking it.
 
 23.	Open the wentour folder and double click on windows batch file
  
