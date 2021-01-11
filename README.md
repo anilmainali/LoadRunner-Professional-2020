@@ -33,3 +33,9 @@ Version: 2020](https://admhelp.microfocus.com/lr/en/2020/help/WebHelp/Content/Re
 
 ## LoadRunner Accredited Software Professional
 [LoadRunner Accredited Software Professional](https://marketplace.microfocus.com/education/content/loadrunner-accredited-software-professional)
+
+[Microfocus Education](https://inter.viewcentral.com/events/uploads/microfocus/art-demos.html)
+
+http://www.mfartsamples.com/LoadRunner/Output/LRP_2020_sample/website/xml/content/ad4a0c52b/index.xml
+
+
