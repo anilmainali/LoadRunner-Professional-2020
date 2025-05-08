@@ -6,3 +6,6 @@ https://admhelp.microfocus.com/lr/en/2023-2023-r1/help/WebHelp/Content/WelcomeCo
 ## YouTube Channel
 
 https://www.youtube.com/@MicroFocus
+
+## Community forum
+https://community.opentext.com/devops-cloud/ppe
